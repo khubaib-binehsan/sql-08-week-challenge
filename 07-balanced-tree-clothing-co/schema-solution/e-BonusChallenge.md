@@ -64,4 +64,4 @@ ORDER BY category_id, segment_id, style_id;
 
 [Previous](d-ReportingChallenge.md)
 
-[Home](..\README.md)
+[Home](../README.md)

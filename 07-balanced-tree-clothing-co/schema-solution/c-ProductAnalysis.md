@@ -404,4 +404,4 @@ FROM product_combination;
 
 [Previous](b-TransactionAnalysis.md) | [Next](d-ReportingChallenge.md)
 
-[Home](..\README.md)
+[Home](../README.md)

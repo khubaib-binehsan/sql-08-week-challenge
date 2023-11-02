@@ -236,4 +236,4 @@ WHERE mt.month_year::TIMESTAMP < mp.created_at::TIMESTAMP;
 
 [Next](b-InterestAnalysis.md)
 
-[Home](..\README.md)
+[Home](../README.md)

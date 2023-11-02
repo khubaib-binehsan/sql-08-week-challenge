@@ -73,4 +73,4 @@ FROM sales;
 
 [Next](b-TransactionAnalysis.md)
 
-[Home](..\README.md)
+[Home](../README.md)

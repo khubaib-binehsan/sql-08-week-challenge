@@ -240,4 +240,4 @@ INNER JOIN interest_map mp
 
 [Previous](b-InterestAnalysis.md) | [Next](d-IndexAnalysis.md)
 
-[Home](..\README.md)
+[Home](../README.md)

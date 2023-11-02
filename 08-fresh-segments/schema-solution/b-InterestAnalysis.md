@@ -144,4 +144,4 @@ INNER JOIN cte c USING (interest_id);
 
 [Previous](a-DataExplorationAndCleansing.md) | [Next](c-SegmentAnalysis.md)
 
-[Home](..\README.md)
+[Home](../README.md)
